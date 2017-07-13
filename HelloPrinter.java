@@ -4,7 +4,7 @@ public class HelloPrinter
     {
         System.out.println("Hello, World!"); //This line prints out the words Hello, World!!
         
-        System.out.println(static double random());
+        System.out.println(static double random()); //This line prints out a random double number
         
     }
 }
